@@ -1,0 +1,53 @@
+.centrado{
+	display:block;
+  	margin-left:auto;
+  	margin-right:auto;
+  	width:60%;
+ 	height:100px; 
+}
+.linea{
+	display:block;
+  	margin-left:auto;
+  	margin-right:auto;
+  	width:60%;
+  	height:20%; 
+}
+.span{
+	display:inline-block;
+	font-size: 30px;
+}
+.foto{
+	display:block;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.ft{
+	width:60%;
+  	height:50%;
+}
+.linea2{
+	display:block;
+	margin-top: 50px;
+  	margin-left:auto;
+  	margin-right:auto;
+  	width:10%;
+  	border: 1px solid black;
+}
+.al{
+	margin: auto;
+	text-align:center;
+	width:40%;
+  	height:40%; 
+}
+.li{
+	margin: auto;
+	text-align:center;
+}
+.lineav{
+	display:inline-table;
+  	margin-left:20px;
+  	margin-right:20px;
+  	width:2px;
+  	height:20px;
+}

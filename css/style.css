@@ -1,0 +1,40 @@
+.centrado{
+	display:block;
+  	margin-left:auto;
+  	margin-right:auto;
+  	width:480px;
+ 	 height:90px; 
+}
+.linea{
+	display:block;
+  	margin-left:auto;
+  	margin-right:auto;
+  	width:50%;
+  	height:50%; 
+}
+.span{
+	display:inline-block;
+}
+.foto{
+	margin-top:20px;
+	margin-left:140px;
+	margin-right:140px;
+}
+.linea2{
+	display:block;
+	margin-top: 50px;
+  	margin-left:auto;
+  	margin-right:auto;
+  	width:10%;
+  	border: 1px solid black;
+}
+.al{
+	margin: auto;
+	text-align:center;
+	width:40%;
+  	height:50%; 
+}
+.li{
+	margin: auto;
+	text-align:center;
+}
